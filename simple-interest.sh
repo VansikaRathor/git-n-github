@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Simple Interest Calculator
+# Author: Vansika Rathor
 
 # Prompt the user for input
 echo "Enter the principal amount:"
